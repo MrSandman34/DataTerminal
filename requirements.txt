@@ -1,0 +1,7 @@
+pandas~=1.0.5
+tushare~=1.2.60
+modulegraph~=0.18
+macholib~=1.14
+py2app~=0.21
+setuptools~=47.3.1
+altgraph~=0.17
